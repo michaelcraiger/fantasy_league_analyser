@@ -1,4 +1,4 @@
-name: fpl_predictor
+name: fpl_analyser
 channels:
   - anaconda
   - conda-forge
